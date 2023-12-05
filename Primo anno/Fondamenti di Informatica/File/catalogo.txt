@@ -1,0 +1,7 @@
+------------------------------------------------
+ISBN: 001
+Titolo: Harry Potter e la pietra filosofale
+Autore: Claudio Romano
+Numero copie: 50
+------------------------------------------------
+
